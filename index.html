@@ -3,7 +3,20 @@ layout: default
 title: Your New Jekyll Site
 ---
 
-<div id="home">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+
+    <div class="wrap container" role="document">
+      <main role="main">
+        {{ content }}
+    
+<!-- Move me to content     
+        <div id="home">
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
@@ -11,3 +24,12 @@ title: Your New Jekyll Site
     {% endfor %}
   </ul>
 </div>
+        -->
+        
+      </main>
+    </div>
+
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
+</html>
