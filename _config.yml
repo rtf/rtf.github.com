@@ -1,2 +1,15 @@
-name: Your New Jekyll Site
-pygments: true
+# Dependencies
+markdown:     rdiscount
+rdiscount:    { extensions: [smart] }
+pygments:     true
+exclude:      ["Gruntfile.js", "node_modules", "package.json"]
+
+# Settings
+paginate:     10
+name:         Rick Farmer
+description:
+url:          http://rickfarmer.com
+permalink:    /:title/
+
+auto:         true
+server:       true
