@@ -1,6 +1,6 @@
 # Dependencies
 markdown:     rdiscount
-rdiscount:    { extensions: [smart] }
+rdiscount:    { extensions: [smart, autolink, footnotes] }
 pygments:     true
 exclude:      ["Gruntfile.js", "node_modules", "package.json"]
 
