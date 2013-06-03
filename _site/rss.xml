@@ -5,10 +5,19 @@
         <description>Rick Farmer - Rick Farmer</description>
         <link>http://rtf.github.io</link>
         <link>http://rtf.github.io</link>
-        <lastBuildDate>2013-06-02T23:33:39-05:00</lastBuildDate>
-        <pubDate>2013-06-02T23:33:39-05:00</pubDate>
+        <lastBuildDate>2013-06-03T00:07:36-05:00</lastBuildDate>
+        <pubDate>2013-06-03T00:07:36-05:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Now is the time</title>
+                <description>
+</description>
+                <link>http://rtf.github.io/now-is-the-time/</link>
+                <guid>http://rtf.github.io/now-is-the-time</guid>
+                <pubDate>2013-06-02T00:00:00-05:00</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>

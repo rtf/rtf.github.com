@@ -4,13 +4,22 @@
  <title>Rick Farmer</title>
  <link href="http://rtf.github.io/" rel="self"/>
  <link href="http://rtf.github.io"/>
- <updated>2013-06-02T23:33:39-05:00</updated>
+ <updated>2013-06-03T00:07:36-05:00</updated>
  <id>http://rtf.github.io</id>
  <author>
    <name>Rick Farmer</name>
    <email>rick@rickfarmer.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Now is the time</title>
+   <link href="http://rtf.github.io/now-is-the-time/"/>
+   <updated>2013-06-02T00:00:00-05:00</updated>
+   <id>http://rtf.github.io/now-is-the-time</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Jekyll Introduction</title>

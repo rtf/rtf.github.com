@@ -1,4 +1,5 @@
 
+http://rtf.github.io/about.html
 http://rtf.github.io/archive.html
 http://rtf.github.io/atom.xml
 http://rtf.github.io/categories.html
@@ -8,4 +9,5 @@ http://rtf.github.io/rss.xml
 http://rtf.github.io/sitemap.txt
 http://rtf.github.io/tags.html
 
+http://rtf.github.io/now-is-the-time/
 http://rtf.github.io/lessons/jekyll-introduction/
