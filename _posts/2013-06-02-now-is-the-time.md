@@ -3,6 +3,6 @@ layout: post
 title: "Now is the time"
 description: ""
 category: 
-tags: []
+tags:
 ---
 {% include JB/setup %}
