@@ -7,12 +7,13 @@ url:          http://rickfarmer.com
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 # permalink: /:categories/:year/:month/:day/:title 
 permalink:    /:categories/:title/
-safe:         true
 
 # Dependencies
+safe: true
+lsi: false
+pygments:     true
 markdown:     rdiscount
 rdiscount:    { extensions: [smart, autolink, footnotes] }
-pygments:     true
 exclude:      [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gruntfile.js", "node_modules", "package.json"]
 
 
