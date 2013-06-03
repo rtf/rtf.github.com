@@ -12,8 +12,8 @@ permalink:    /:categories/:title/
 safe: true
 #lsi: false
 pygments:     true
-markdown:     rdiscount
-rdiscount:    { extensions: [smart, autolink, footnotes] }
+#markdown:     rdiscount
+#rdiscount:    { extensions: [smart, autolink, footnotes] }
 exclude:      [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gruntfile.js", "node_modules", "package.json"]
 
 
