@@ -9,8 +9,8 @@ url:          http://rickfarmer.com
 permalink:    /:categories/:title/
 
 # Dependencies
-safe: true
-#lsi: false
+#safe: true
+lsi: true
 pygments:     true
 #markdown:     rdiscount
 #rdiscount:    { extensions: [smart, autolink, footnotes] }
