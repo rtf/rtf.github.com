@@ -1,22 +1,18 @@
 # Settings
 paginate:     10
 name:         Rick Farmer
-description:
+description:  Ideas, Solutions, Execution
 url:          http://rickfarmer.com
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 # permalink: /:categories/:year/:month/:day/:title 
-permalink:     /:categories/:title/
-
-auto:         true
-server:       true
+permalink:    /:categories/:title/
 
 # Dependencies
 markdown:     rdiscount
 rdiscount:    { extensions: [smart, autolink, footnotes] }
-auto: true
-pygments: true
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gruntfile.js", "node_modules", "package.json"]
+pygments:     true
+exclude:      [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gruntfile.js", "node_modules", "package.json"]
 
 
 # Themes are encouraged to use these universal variables 
